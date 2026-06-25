@@ -20,6 +20,9 @@ Everything is in a single `index.html` — no build step, no dependencies.
 
 ## Before / After
 
+![Before](before.png)
+![After](after.png)
+
 <table>
 
 <tr>
